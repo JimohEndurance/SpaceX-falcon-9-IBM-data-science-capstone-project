@@ -1,5 +1,5 @@
 # SpaceX-falcon-9-IBM-data-science-capstone-project
-This is a Data Science capstone project where I will assume the role of a Data Scientist working for a startup intending to compete with SpaceX, and in the process follow the Data Science methodology involving data collection, data wrangling, exploratory data analysis, data visualization, model development, model evaluation, and reporting my results to stakeholders.
+##[Click](https://endurancejim.github.io/portfolio.html) to view full project details and steps .
 
 I am tasked with predicting if the first stage of the SpaceX Falcon 9 rocket will land successfully. SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage.
 
